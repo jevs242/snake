@@ -1,6 +1,6 @@
 ## Snake
 
-This project is a game/application developed using Unity.
+This project is a game developed using Unity.
 
 ## Quick Start
 
