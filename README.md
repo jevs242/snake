@@ -11,4 +11,3 @@ Open this project in Unity by navigating to the project folder after cloning or 
 - Unity Editor (Version recommended: 2021.2.7f1)
 
 Enjoy exploring the project!
- Snake
